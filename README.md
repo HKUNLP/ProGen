@@ -54,3 +54,6 @@ To run DistilBERT or LSTM given a generated dataset, you can use the `scripts/ru
 ### Experiments of Influence Function
 To experiment the effectiveness of influence function when the validation set is noisy, run `bash scripts/run_IF_exp.sh`.
 You can see the effectiveness of IF is highly affected by the noise of the validation set (Paper Fig.6), and using RCE as loss function reduces such effect.
+
+Here is the output after running with `obj=ce` (upper) and `obj=rce` (lower) on SST-2, where the identified helpful examples are removed and the resulting data is used to training the small model. We can see rce loss well identifies the helpful instances in the training set when the validation set contains 40% noise.
+![](img/ce-ice.png)
