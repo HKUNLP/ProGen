@@ -1,0 +1,10 @@
+{
+  "embed_dim": 100,
+  "embed_dropout": 0,
+  "hidden_dim": 300,
+  "n_layers": 1,
+  "lstm_dropout": 0,
+  "seq_classif_dropout": 0.5,
+  "pad_token_id": 0,
+  "vocab_size": 30522
+}

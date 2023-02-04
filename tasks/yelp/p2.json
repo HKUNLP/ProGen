@@ -1,0 +1,14 @@
+{
+    "1": {
+      "gen_x_instruction": "<E>The restaurant review in positive sentiment is: \"",
+      "example_instruction": "The restaurant review is: \"<X>\"",
+      "prompting_instruction": "The restaurant review in positive sentiment is: \"<X>\"",
+      "gen_c_instruction": "Restaurant name: \""
+    },
+    "0": {
+      "gen_x_instruction": "<E>The restaurant review in negative sentiment is: \"",
+      "example_instruction": "The restaurant review is: \"<X>\"",
+      "prompting_instruction": "The restaurant review in negative sentiment is: \"<X>\"",
+      "gen_c_instruction": "Restaurant name: \""
+    }
+}

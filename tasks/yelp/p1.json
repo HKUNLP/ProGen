@@ -1,0 +1,14 @@
+{
+    "1": {
+      "gen_x_instruction": "<E>Positive Restaurant Review: \"",
+      "example_instruction": "Sample Restaurant Review: \"<X>\"",
+      "prompting_instruction": "Positive Restaurant Review: \"<X>\"",
+      "gen_c_instruction": "Restaurant name: \""
+    },
+    "0": {
+      "gen_x_instruction": "<E>Negative Restaurant Review: \"",
+      "example_instruction": "Sample Restaurant Review: \"<X>\"",
+      "prompting_instruction": "Negative Restaurant Review: \"<X>\"",
+      "gen_c_instruction": "Restaurant name: \""
+    }
+}

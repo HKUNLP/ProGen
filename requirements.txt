@@ -1,0 +1,12 @@
+torch==1.10.1
+transformers==4.15.0
+datasets==2.3.2
+wandb==0.12.7
+protobuf==3.19.0
+matplotlib
+sklearn
+spacy
+nltk
+accelerate
+faiss
+contexttimer

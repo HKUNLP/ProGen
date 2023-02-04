@@ -1,0 +1,14 @@
+{
+    "0": {
+      "gen_x_instruction": "<E>The movie review in negative sentiment for movie \"<C>\" is: \"",
+      "example_instruction": "The movie review for movie \"<C>\" is: \"<X>\"",
+      "prompting_instruction": "The movie review in negative sentiment is: \"<X>\"",
+      "gen_c_instruction": "Movie: \""
+    },
+    "1": {
+      "gen_x_instruction": "<E>The movie review in positive sentiment for movie \"<C>\" is: \"",
+      "example_instruction": "The movie review for movie \"<C>\" is: \"<X>\"",
+      "prompting_instruction": "The movie review in positive sentiment is: \"<X>\"",
+      "gen_c_instruction": "Movie: \""
+    }
+}

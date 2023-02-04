@@ -1,0 +1,14 @@
+{
+    "0": {
+      "gen_x_instruction": "<E>Negative Movie Review: \"",
+      "example_instruction": "Sample Movie Review: \"<X>\"",
+      "prompting_instruction": "Negative Movie Review: \"<X>\"",
+      "gen_c_instruction": "Movie: \""
+    },
+    "1": {
+      "gen_x_instruction": "<E>Positive Movie Review: \"",
+      "example_instruction": "Sample Movie Review: \"<X>\"",
+      "prompting_instruction": "Positive Movie Review: \"<X>\"",
+      "gen_c_instruction": "Movie: \""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "0": {
+      "gen_x_instruction": "<E>Negative Electronic Product Review: \"",
+      "example_instruction": "Sample Electronic Product Review: \"<X>\"",
+      "prompting_instruction": "Negative Electronic Product Review: \"<X>\"",
+      "gen_c_instruction": "Electronic product: \""
+    },
+    "1": {
+      "gen_x_instruction": "<E>Positive Electronic Product Review: \"",
+      "example_instruction": "Sample Electronic Product Review: \"<X>\"",
+      "prompting_instruction": "Positive Electronic Product Review: \"<X>\"",
+      "gen_c_instruction": "Electronic product: \""
+    }
+}

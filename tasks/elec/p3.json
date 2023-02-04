@@ -1,0 +1,14 @@
+{
+    "0": {
+      "gen_x_instruction": "<E>The electronic product review in negative sentiment for product \"<C>\" is: \"",
+      "example_instruction": "The electronic product review for product \"<C>\" is: \"<X>\"",
+      "prompting_instruction": "The electronic product review in negative sentiment for product \"<C>\" is: \"<X>\"",
+      "gen_c_instruction": "Electronic product: \""
+    },
+    "1": {
+      "gen_x_instruction": "<E>The electronic product review in positive sentiment for product \"<C>\" is: \"",
+      "example_instruction": "The electronic product review for product \"<C>\" is: \"<X>\"",
+      "prompting_instruction": "The electronic product review in positive sentiment for product \"<C>\" is: \"<X>\"",
+      "gen_c_instruction": "Electronic product: \""
+    }
+}
